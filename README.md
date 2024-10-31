@@ -1,5 +1,10 @@
 # Health Inequality Index
 
+## Excel Files
+Many of the excel files in this repository are corrupted, so while that gets fixed, use this link to access any files that are inaccessible here, under the same names:  
+
+https://drive.google.com/file/d/1cjOWXxqlP9LbWZ0voeG3qJiNZfPYZ_lU/view?usp=share_link
+
 ## Input Dataframes
 
 Some input dataframes are too large to be stored in git and are available for download via Google Drive. To properly reproduce the projets, they should be added at the following paths:
