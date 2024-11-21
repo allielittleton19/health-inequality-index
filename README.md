@@ -1,7 +1,7 @@
 # Health Inequality Index
 
 ## Excel Files
-Many of the excel files in this repository are corrupted, so while that gets fixed, use this link to access any files that are inaccessible here, under the same names:  
+Many of the excel files in this repository are too large to store on git and appear corrupted, so use this link to access any files that are inaccessible here, under the same names:
 
 https://drive.google.com/file/d/1cjOWXxqlP9LbWZ0voeG3qJiNZfPYZ_lU/view?usp=share_link
 
